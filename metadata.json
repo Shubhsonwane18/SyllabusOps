@@ -1,0 +1,1 @@
+{"name":"SyllabusOps","description":"Autonomous academic operations agent for syllabus ingestion, target grade linear forecasting, and backward study block calendar scheduling.","requestFramePermissions":[],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
